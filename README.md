@@ -6,7 +6,11 @@ the movie or they hated it. We aim to utilize the relationships of the words in 
 predict the overall polarity of the review.
 
 To implement this, you can either use:
--> Google Colab(Env used in the project) 
+
+-> Google Colab(Env used in the project).
+
 -> You can download Python and Jupyter Notebook.
+
 -> The dataset used for training and testing is also included in the repository. 
+
 -> This is the base version. You can create a user interface and make it into a advanced version.
